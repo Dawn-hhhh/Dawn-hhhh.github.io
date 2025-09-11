@@ -1,0 +1,19 @@
+# Hexo 生成的静态文件（部署时会重新生成，无需跟踪）
+public/
+.deploy_git/
+
+# Hexo 缓存文件
+db.json
+node_modules/
+
+# 日志文件
+logs/
+*.log
+
+# 编辑器配置文件（如 VS Code）
+.vscode/
+*.sublime-*
+
+# 操作系统临时文件
+.DS_Store
+Thumbs.db
